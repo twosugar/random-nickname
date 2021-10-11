@@ -10,6 +10,10 @@
   "keywords": [
     "js、随机生成昵称"
   ],
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/twosugar/random-nickname.git"
+  },
   "author": "sugarfish",
   "license": "ISC",
   "devDependencies": {
