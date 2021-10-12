@@ -1,7 +1,7 @@
 {
   "name": "@sugarfish/random-nickname",
   "mode": "development",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "随机生成昵称",
   "main": "./dist/main.js",
   "scripts": {
