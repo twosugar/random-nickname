@@ -18,9 +18,9 @@ import RandomNickname from '@sugarfish/random-nickname'
 
 `
 const options = { 
-    //非必传
-    describeList: [], //形容词字典，支持自定义，非必传
-    nounList: [], //名称字典，支持自定义， 非必传
+    /*非必传*/
+    describeList: [], /*形容词字典，支持自定义，非必传*/
+    nounList: [], /*名称字典，支持自定义， 非必传*/
 }
 `
 
