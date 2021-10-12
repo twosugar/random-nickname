@@ -1,16 +1,13 @@
 import { describeList, nounList } from  './mock'
-
-
 class RandomNickname {
-    constructor(options) {
+    constructor(options = {}) {
         this.describeList = describeList
         this.nounList = nounList
-
-        if (options?.describeList?.length) {
+        if (options.describeList) {
             this.describeList = options.describeList
         }
 
-        if (options?.nounList?.length) {
+        if (options.nounList) {
             this.nounList = options.nounList
         }
     }
