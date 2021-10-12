@@ -2,6 +2,8 @@
 随机生成昵称
 ### 在线地址
 
+http://www.sugarfish.top:3001/
+
 ### 安装
 `
 npm i @sugarfish/random-nickname --save
