@@ -1,5 +1,7 @@
 ### 说明
 随机生成昵称
+![image](https://user-images.githubusercontent.com/42201025/137903100-ca82b7e7-1395-4976-af56-03427f1c4876.png)
+
 ### 在线地址
 
 http://www.sugarfish.top:3001/
